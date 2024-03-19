@@ -1,3 +1,6 @@
-# Diferents proyects:
-Data mining, machine learning, data analysis, algorithms. 
-
+Diferents proyects using AI:
+- Linear Regression
+- Clustering
+- Clasification
+- Time series analysis
+- Deep Learning
