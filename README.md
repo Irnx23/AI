@@ -1,4 +1,4 @@
-Diferents proyects using AI:
+Different projects using AI:
 - Linear Regression
 - Clustering
 - Classification
