@@ -1,6 +1,6 @@
 Diferents proyects using AI:
 - Linear Regression
 - Clustering
-- Clasification
+- Classification
 - Time series analysis
 - Deep Learning
