@@ -1,9 +1,6 @@
-Different projects using AI:
-- Linear Regression
-- Logistic Regression
-- Clustering
-- Classification
-- Time series analysis
-- Deep Learning
-- Forecasting
+Projects:
+- Salary prediction
+- Characters Clustering
+- Tag image
+- Behavour pollulants prediction in Monterrey
   
