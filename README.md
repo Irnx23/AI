@@ -5,3 +5,5 @@ Different projects using AI:
 - Classification
 - Time series analysis
 - Deep Learning
+- Forecasting
+  
